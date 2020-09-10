@@ -16,6 +16,6 @@ apt install python
 
 cd Facebook-All-Request-Confirm-or-Delete
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 python Mubeen.py
