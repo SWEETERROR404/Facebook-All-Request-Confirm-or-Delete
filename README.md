@@ -1,5 +1,6 @@
 # Facebook-All-Request-Confirm-or-Delete
-pkg update
+
+git clone Facebook-All-Request-Confirm-or-Deletepkg update
 
 pkg upgrade
 
@@ -8,3 +9,5 @@ apt update
 apt upgrade
 
 apt install python
+
+pip install requirements.txt
