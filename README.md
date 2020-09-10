@@ -1,7 +1,8 @@
 # Facebook-All-Request-Confirm-or-Delete
 
-git clone Facebook-All-Request-Confirm-or-Deletepkg update
+git clone Facebook-All-Request-Confirm-or-Delete
 
+pkg update
 
 pkg upgrade
 
