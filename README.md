@@ -11,3 +11,5 @@ apt upgrade
 apt install python
 
 pip install requirements.txt
+
+python Mubeen.py
