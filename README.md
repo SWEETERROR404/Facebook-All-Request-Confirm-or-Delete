@@ -1,6 +1,6 @@
 # Facebook-All-Request-Confirm-or-Delete
 
-git clone Facebook-All-Request-Confirm-or-Delete
+git clone https://github.com/CodeWithMubeen/Facebook-All-Request-Confirm-or-Delete.git
 
 pkg update
 
