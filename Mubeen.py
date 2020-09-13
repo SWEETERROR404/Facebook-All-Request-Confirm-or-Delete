@@ -65,7 +65,7 @@ welcome = """\033[1;33;40m
 """
 print(welcome)
 time.sleep(3)
-print(os.system('clear')
+os.system('clear')
 print(logo)
 time.sleep(3)
 l1="\033[1;32;40m If Any Problem than contact me on facebook account "
