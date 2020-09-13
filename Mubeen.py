@@ -163,7 +163,7 @@ elif user_input == 2:
         print(name + "\nDelete Request\n")
         print("Please Wait")
     for remove in delete:
-        data = requests.get(delete, cookies=cj)
+        data = requests.get(remove, cookies=cj)
         soup = bs4.BeautifulSoup(data.text, "html.parser")
 else:
         print("Wronge Input")
