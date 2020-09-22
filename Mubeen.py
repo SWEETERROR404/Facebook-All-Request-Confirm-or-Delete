@@ -150,14 +150,14 @@ while True:
         else:
             if int(user_input) == 1:
                 for name in friends_name:
-                    print(str(friends_name) + "\nConfirm Request\n")
+                    #print(str(friends_name) + "\nConfirm Request\n")
                     print("Please Wait")
                 for con in confirm:
                     searcher(con)
                 break
             else:
                 for name in friends_name:
-                    print(str(friends_name) + "\nDelete Request\n")
+                    #print(str(friends_name) + "\nDelete Request\n")
                     print("Please Wait")
                 for remove in delete:
                     searcher(remove)
