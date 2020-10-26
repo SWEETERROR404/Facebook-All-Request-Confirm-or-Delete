@@ -141,7 +141,6 @@ for next_class in see_more:
                 # Delete request
                 delete.append('https://mbasic.facebook.com' + str(a).replace('"', "\n").split("\n")[3].replace("amp;", ""))
             no += 1
-
 print("Total Requests "+str(len(friends_name)))
 while True:
         user_input = input("Type 1 for All Accepted\nType 2 for All Deleted\n")
